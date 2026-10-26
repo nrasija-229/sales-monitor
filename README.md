@@ -3,7 +3,7 @@ Sales Order Monitoring Web App
 
 This repository contains a responsive web application that helps a sales team monitor sales orders across multiple branches. It was built for the Harrisons Sabah Sdn Bhd IT Executive assessment and uses only the provided fictional, read-only mock REST API as its data source.
 
-- **Live app:** https://sales-monitor-beta.vercel.app/?utm_source=chatgpt.com
+- **Live app:** https://sales-monitor-beta.vercel.app/
 - **Repository:** https://github.com/nrasija-229/sales-monitor
 
 ## Core Applications
